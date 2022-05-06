@@ -1,0 +1,12 @@
+{
+  "name": "@prisma-monorepo-output-bug/dev",
+  "private": true,
+  "workspaces": ["workspaces/*"],
+  "scripts": {
+    "prisma-generate": "npm run --workspace=@prisma-monorepo-output-bug/prisma generate",
+    "web-dev": "npm run --workspace=@prisma-monorepo-output-bug/web dev"
+  },
+  "devDependencies": {
+    "typescript": "4.5.4"
+  }
+}

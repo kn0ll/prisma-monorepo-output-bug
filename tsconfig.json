@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "incremental": true,
+    "skipLibCheck": true,
+    "declaration": true
+  },
+  "exclude": ["node_modules"]
+}

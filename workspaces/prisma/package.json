@@ -1,0 +1,13 @@
+{
+  "name": "@prisma-monorepo-output-bug/prisma",
+  "scripts": {
+    "generate": "npx prisma generate"
+  },
+  "devDependencies": {
+    "prisma": "^3.13.0"
+  },
+  "dependencies": {
+    "@prisma/client": "^3.13.0",
+    "encoding": "0.1.13"
+  }
+}
