@@ -1,6 +1,6 @@
 # steps to reproduce
 
-1. `npm install`
+1. `npm ci`
 2. `npm run prisma-generate`
 3. `npm run web-dev`
 4. navigate to [http://localhost:3000/api/test](http://localhost:3000/api/test)
